@@ -1,6 +1,11 @@
 # code-20210909-karanamchaitanyapramod
 
-Express app to calculate BMI 
+Express app to calculate BMI
+
+Funcitonalities:
+
+1)Post request to get BMI and Health risk of multiple records.
+2)Get request to get BMI and Health risk of specific User.
 
 steps:
 1)setup node modules "npm install"
